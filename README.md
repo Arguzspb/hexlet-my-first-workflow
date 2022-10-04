@@ -1,2 +1,2 @@
 ### hexlet-my-first-workflow
-[![Actions Status](https://github.com/Arguzspb/hexlet-my-first-workflow/workflows/hexlet-check/badge.svg)](https://github.com/Arguzspb/hexlet-my-first-workflow/actions)
+[![hello_world](https://github.com/Arguzspb/hexlet-my-first-workflow/actions/workflows/main.yml/badge.svg)](https://github.com/Arguzspb/hexlet-my-first-workflow/actions/workflows/main.yml)
